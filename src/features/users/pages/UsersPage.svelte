@@ -25,7 +25,7 @@
   });
 </script>
 
-<main class="space-y-6 animate-in fade-in duration-300">
+<div class="space-y-6 animate-in fade-in duration-300">
   <header class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
     <div>
       <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
@@ -116,4 +116,4 @@
       {/if}
     </div>
   </section>
-</main>
+</div>
