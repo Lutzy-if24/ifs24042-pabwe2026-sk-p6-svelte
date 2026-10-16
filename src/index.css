@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("/fonts/plus-jakarta-sans-latin-wght-normal.woff2") format("woff2-variations");
+}
+
 @theme {
   /* Mengganti seluruh skala indigo menjadi teal, tanpa menyentuh komponen */
   --color-indigo-50: #f0fdfa;

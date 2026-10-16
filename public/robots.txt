@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://ifs24042-pabwe2026-sk-p6-svelte.vercel.app/sitemap.xml
